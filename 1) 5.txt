@@ -10,3 +10,4 @@ It can contain multiple lines.
 */ 
 printf("This program demonstrates comments in C.\n"); 
 return 0;
+}
