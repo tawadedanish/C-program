@@ -17,3 +17,4 @@ float result;
 result = area(); 
 printf("Area of triangle = %.2f\n", result); 
 return 0;
+}
